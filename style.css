@@ -1,0 +1,13 @@
+body{
+    background-color: cornflowerblue;
+}
+
+span, p{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#show_sketch{
+    float:right;
+    margin-right: 50px;
+}
